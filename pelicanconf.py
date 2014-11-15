@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'teitei_tk'
 SITENAME = u"Striker's Back"
-SITEURL = 'http://teitei-tk.github.io'
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -31,3 +31,4 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+THEME = "/Users/teitei/.pelican-themes/svbhack/"
